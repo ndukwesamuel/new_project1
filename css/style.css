@@ -1,0 +1,11 @@
+p{
+    position: static;
+    top: 400px;
+}
+
+
+.sec_p{
+    color: red;
+    position: relative;
+    top: 10px;
+}   
